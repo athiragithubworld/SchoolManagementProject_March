@@ -1,0 +1,5 @@
+.tablegrid{
+  display: grid;
+  grid-template-rows: .5fr 5fr;
+  grid-template-columns: 5fr 2fr;
+}

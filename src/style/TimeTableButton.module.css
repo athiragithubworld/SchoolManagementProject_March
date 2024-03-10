@@ -1,0 +1,45 @@
+
+.buttoncontainer{
+  grid-column: 1/-1;
+  display: flex;
+  justify-content: space-between;
+
+}
+.timetable_classbutton{
+  width: 108px;
+  height: 40px;
+  border-radius: 40px;
+  background-color:#009DFF;
+  margin-left: 8px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  color:white;
+  padding: 6px;
+  /* margin-right: 666px; */
+}
+
+
+.faculty_classbutton{
+  width: 108px;
+  height: 40px;
+  border-radius: 40px;
+  background-color:white;
+  margin-left: 8px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  color:black;
+  padding: 6px;
+  box-shadow: 7px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+  /* margin-right: 666px; */
+}
+.faculty_sharebutton{
+  width: 108px;
+  height: 40px;
+  border-radius: 40px;
+  background-color:#009DFF;
+  margin-left: 8px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  color:white;
+  padding: 6px;
+}
